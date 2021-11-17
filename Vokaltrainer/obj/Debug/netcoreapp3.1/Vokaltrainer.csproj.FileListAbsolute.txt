@@ -1,0 +1,14 @@
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\bin\Debug\netcoreapp3.1\Vokaltrainer.exe
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\bin\Debug\netcoreapp3.1\Vokaltrainer.deps.json
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\bin\Debug\netcoreapp3.1\Vokaltrainer.runtimeconfig.json
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\bin\Debug\netcoreapp3.1\Vokaltrainer.runtimeconfig.dev.json
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\bin\Debug\netcoreapp3.1\Vokaltrainer.dll
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\bin\Debug\netcoreapp3.1\Vokaltrainer.pdb
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.csproj.AssemblyReference.cache
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.AssemblyInfoInputs.cache
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.AssemblyInfo.cs
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.csproj.CoreCompileInputs.cache
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.dll
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.pdb
+C:\Users\Thikal\source\repos\Vokaltrainer\Vokaltrainer\obj\Debug\netcoreapp3.1\Vokaltrainer.genruntimeconfig.cache
