@@ -40,7 +40,7 @@ An Arrays first place is 0 not 1. In the example I fill the 2 digit with 4 not t
 - You can only save one data type in it.
 
 ## Image
-
+![Array](Image of Array.jpg)
 
 ## Verification and Suggestions for improvement
 Goal 1: You can see an Array on the image and in the code blocks in the first section.
